@@ -9,7 +9,7 @@ I built this project to learn how Python, real-time hand tracking, and physical 
 
 Watch the hand gesture-controlled LED system in action.
 
-[Watch Project Demonstration]((https://vijayprajwal.github.io/VijayPrajwalRajasekar-Portfolio/hand-gesture-led.html))
+[Watch Project Demonstration](https://vijayprajwal.github.io/VijayPrajwalRajasekar-Portfolio/hand-gesture-led.html)
 
 ## How it works
 
