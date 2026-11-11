@@ -4,6 +4,13 @@ A beginner computer vision and Arduino project that controls five LEDs using han
 
 I built this project to learn how Python, real-time hand tracking, and physical hardware can work together.
 
+
+## Demo Video
+
+Watch the hand gesture-controlled LED system in action.
+
+[Watch Project Demonstration]((https://vijayprajwal.github.io/VijayPrajwalRajasekar-Portfolio/hand-gesture-led.html))
+
 ## How it works
 
 1. **OpenCV** captures live webcam video.
